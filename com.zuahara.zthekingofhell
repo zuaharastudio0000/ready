@@ -1,0 +1,75 @@
+{
+  "blog": {
+    "blogger_id": "402265823752447122",
+    "api_key": "AIzaSyA7JU3x-Rj_Xz-_XZa1KEUk3vx7yIyjUao,AIzaSyBJ_ZOQqjFlcsXxiJawxStoEfy4erVBwG8,AIzaSyA7j1aerOb2jvtI5cS3RoTzG8TPicjEtsk,AIzaSyA6lq53-OgSGBFN-ARrb1g0ADdCl9i2fec,AIzaSyAVgwlEKmYjkAaJnD3VK9GQ7h4ov481yUw,AIzaSyDK11KKe63SSq0VCFZyzb4nbES8C4hQOJ0,AIzaSyDG9WyKEcs5hkdzG6IBXevgT1_EDRPzl6o,AIzaSyABrtftZse_aK2HVxl1lbhv-JipiITtGtI,AIzaSyBO6ei_6wgKznkeDueqxfeYy-0tyrbiHQc,AIzaSyDkGpjCjIj2qzvG6D8F5YBuKR-tCN4oNW8,AIzaSyAm_YKjkw8NaBiq974msCG6nfS0Y-wvDkA,AIzaSyD7X6BL0TLgcgPMbBgFFUvTVVy5ME8Ngx4,AIzaSyBELiAPCFprKEHIjc5DTrLN7IIdMPHgiH8,AIzaSyCCDfQ76b4j3EIZz3ryaH15EOwXH1j0tnc,AIzaSyD5HUoW-GQXXZu2cSXTw2IPgk2imPwzoL0,AIzaSyD7w4S2jxIoe33HBK8V0yRVgELl_EgG-Bk,AIzaSyDFFx7CYSKAno7abzeHQwN4Xp1a-Z5ngPU,AIzaSyCpQ9fTgnKNH0e74ZGtjgkkHJ0foRp_cxY,AIzaSyAnzI6cxNdV4IUCS-GGzI58zEFIqVZAVNU,AIzaSyCtblT42XyFWgTSnBRuKFocoDWL68CmLyM
+	"
+  },
+  "app": {
+    "status": true,
+    "redirect_url": "",
+    "privacy_policy_url": "file:///android_asset/pp.html",
+    "more_apps_url": "https://play.google.com/store/apps/developer?id=",
+    "featured_labels": "",
+    "custom_label_list": false,
+    "display_wallpaper_name": true,
+    "center_crop_wallpaper": true
+  },
+  "ads": {
+    "ad_status": false,
+    "main_ads": "admob",
+    "backup_ads": "none",
+    "admob_publisher_id": "0",
+    "admob_banner_unit_id": "0",
+    "admob_interstitial_unit_id": "0",
+    "admob_native_unit_id": "0",
+    "admob_app_open_ad_unit_id": "0",
+    "ad_manager_banner_unit_id": "0",
+    "ad_manager_interstitial_unit_id": "0",
+    "ad_manager_native_unit_id": "0",
+    "ad_manager_app_open_ad_unit_id": "0",
+    "fan_banner_unit_id": "0",
+    "fan_interstitial_unit_id": "0",
+    "fan_native_unit_id": "0",
+    "startapp_app_id": "0",
+    "unity_game_id": "0",
+    "unity_banner_placement_id": "0",
+    "unity_interstitial_placement_id": "0",
+    "applovin_banner_ad_unit_id": "0",
+    "applovin_interstitial_ad_unit_id": "0",
+    "applovin_native_ad_manual_unit_id": "0",
+    "applovin_app_open_ad_unit_id": "0",
+    "applovin_banner_zone_id": "0",
+    "applovin_banner_mrec_zone_id": "0",
+    "applovin_interstitial_zone_id": "0",
+    "ironsource_app_key": "0",
+    "ironsource_banner_id": "0",
+    "ironsource_interstitial_id": "0",
+    "wortise_app_id": "0",
+    "wortise_banner_ad_unit_id": "0",
+    "wortise_interstitial_ad_unit_id": "0",
+    "wortise_native_ad_unit_id": "0",
+    "wortise_app_open_ad_unit_id": "0",	
+    "interstitial_ad_interval": 3,
+    "native_ad_index": 3,
+    "placement": {
+      "banner_home": true,
+      "banner_wallpaper_list": true,
+      "banner_wallpaper_details": true,
+      "banner_category_details": true,
+      "banner_search": true,
+      "interstitial_wallpaper_list": true,
+      "interstitial_wallpaper_details": true,
+      "interstitial_category_details": true,
+      "native_home": true,
+      "native_exit_dialog": true,
+      "app_open_ad_on_start": true,
+      "app_open_ad_on_resume": true
+    }
+  },
+  "labels": [
+    {
+      "term": "City",
+      "image": "https://i.ibb.co/pJvy9z3/city.jpg"
+    }
+  ]
+}
